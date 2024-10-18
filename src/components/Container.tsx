@@ -9,7 +9,7 @@ const MainContainer: React.FC = () => {
         <React.Fragment>
             <CssBaseline />
             <Container maxWidth='sm'>
-                <Box sx={{ bgcolor: 'greenyellow', height: '25vh', mt: '50%' }}>
+                <Box sx={{ bgcolor: 'greenyellow', height: '22vh', mt: '10vh' }}>
                     <Timer></Timer>
                 </Box>
             </Container>
